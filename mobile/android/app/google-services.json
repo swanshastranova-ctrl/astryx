@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900551396478",
+    "project_id": "astryx-app-f5678",
+    "storage_bucket": "astryx-app-f5678.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900551396478:android:29854a24a19ad373901c2f",
+        "android_client_info": {
+          "package_name": "com.astryx.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDy_N-3CB0YCqQZeTyXRVflhmIMppn9Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
