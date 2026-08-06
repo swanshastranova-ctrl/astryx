@@ -5,15 +5,15 @@ class SplashScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+
             Icon(
               Icons.auto_awesome,
               size: 90,
-              color: Colors.white,
             ),
 
             SizedBox(height: 30),
@@ -21,20 +21,16 @@ class SplashScreen extends StatelessWidget {
             Text(
               "ASTRYX",
               style: TextStyle(
-                fontSize: 40,
+                fontSize: 42,
                 fontWeight: FontWeight.bold,
                 letterSpacing: 8,
               ),
             ),
 
-            SizedBox(height: 15),
+            SizedBox(height: 10),
 
             Text(
               "Every person deserves a universe.",
-              style: TextStyle(
-                fontSize: 16,
-                color: Colors.white70,
-              ),
             ),
           ],
         ),
